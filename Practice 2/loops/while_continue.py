@@ -9,7 +9,7 @@ while i < 10:
 print(end="\n")
 #some basic example
 
-#divisors of m
+#not divisors of m
 n = int(input())
 i = 0
 m=int(input())
