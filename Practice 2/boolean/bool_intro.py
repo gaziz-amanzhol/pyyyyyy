@@ -6,7 +6,7 @@ print(a,b,a and b,a or b,sep=" ") # basic logic operations
 name=input()
 age=int(input())
 gender=input()
-x=(name=="Adilzhan")
+x=(name=="Gaziz")
 y=(age==18)
 z=(gender=="male")
 print(x+y+z)
