@@ -22,8 +22,8 @@ print(number)
 
 #finding max
 a,b,c=map(int,input().split())
-max=a
-if (b>max):
+maxi=a
+if (b>maxi):
     maxi=b
 if(c>maxi):
     maxi=c
