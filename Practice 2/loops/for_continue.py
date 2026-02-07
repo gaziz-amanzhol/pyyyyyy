@@ -1,5 +1,5 @@
 #for loop comtinue
-x="Adilzhan"
+x="Gaziz"
 cnt=0
 for i in x:
     if i.islower():
